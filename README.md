@@ -24,6 +24,8 @@ This project is a simple Python GUI-based calculator that takes an **infix arith
 
 ## 💻 Demo
 
+![Readme SS](https://github.com/user-attachments/assets/e936e1ef-a2ee-4aeb-9771-42df7a177471)
+
 
 ---
 
